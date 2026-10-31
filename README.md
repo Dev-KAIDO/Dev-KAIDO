@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Eng Abdulrhaman profile banner" width="100%">
+<img src="./assets/profile-banner.svg" alt="Eng Abdulrhaman profile banner" width="100%">
 
 <br>
 
@@ -85,26 +85,9 @@ class Abdulrhaman:
 
 <div align="center">
 
-### Languages and markup
+<img src="./assets/profile-tech.svg" alt="Languages and tools used by Eng Abdulrhaman" width="100%">
 
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"></a>
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++"></a>
-<a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"></a>
-<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML"></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS"></a>
-<a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" height="48" alt="Markdown"></a>
-
-### Tools and platforms
-
-<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" height="48" alt="OpenCV"></a>
-<a href="https://www.qt.io/"><img src="https://skillicons.dev/icons?i=qt" height="48" alt="Qt"></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"></a>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"></a>
-
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Vision%20%26%20OCR-OpenCV%20%7C%20Tesseract-5C3EE8?style=for-the-badge" alt="Vision and OCR">
 <img src="https://img.shields.io/badge/Analysis-Graphs%20%7C%20PERT%20%7C%20CPM-0EA5E9?style=for-the-badge" alt="Analysis">
