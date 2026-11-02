@@ -182,8 +182,7 @@ The profile shows the highlights. **Eng_KAIDO shows the engineering journey behi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-KAIDO&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1" alt="GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-KAIDO&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=38BDF8&text_color=CBD5E1" alt="Most used programming languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-KAIDO&theme=github_dark" alt="GitHub profile summary">
 
 <br>
 
