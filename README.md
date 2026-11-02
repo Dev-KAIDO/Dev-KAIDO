@@ -38,6 +38,12 @@ I build **computer-vision systems, analytical tools, and thoughtful software exp
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Python+%7C+Computer+Vision+%7C+OpenCV;Graph+Analysis+%7C+PERT+%2F+CPM;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Qt+%7C+Git+%7C+Product+Engineering" alt="Animated technology focus">
+
+</div>
+
 <details>
 <summary><strong>My engineering mindset</strong></summary>
 <br>
@@ -145,6 +151,43 @@ The profile shows the highlights. **Eng_KAIDO shows the engineering journey behi
 <img src="https://img.shields.io/badge/Vision%20%26%20OCR-OpenCV%20%7C%20Tesseract-5C3EE8?style=for-the-badge" alt="Vision and OCR">
 <img src="https://img.shields.io/badge/Analysis-Graphs%20%7C%20PERT%20%7C%20CPM-0EA5E9?style=for-the-badge" alt="Analysis">
 <img src="https://img.shields.io/badge/Delivery-Git%20%7C%20Testing%20%7C%20Docs-16A34A?style=for-the-badge" alt="Delivery">
+
+</div>
+
+### Skills in motion
+
+<div align="center">
+
+<p><strong>Core languages</strong></p>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++"></a>
+<a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#"></a>
+
+<p><strong>Web and interfaces</strong></p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"></a>
+<a href="https://www.qt.io/"><img src="https://skillicons.dev/icons?i=qt" height="48" alt="Qt"></a>
+
+<p><strong>Vision and delivery</strong></p>
+<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" height="48" alt="OpenCV"></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"></a>
+
+</div>
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-KAIDO&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1" alt="GitHub statistics">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-KAIDO&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=38BDF8&text_color=CBD5E1" alt="Most used programming languages">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Dev-KAIDO&theme=transparent&hide_border=true&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak">
 
 </div>
 
