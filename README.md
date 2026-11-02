@@ -17,6 +17,16 @@ I build **computer-vision systems, analytical tools, and thoughtful software exp
 
 > **My standard:** preserve the evidence, validate the result, and make the next decision easier.
 
+<div align="center">
+
+<a href="https://github.com/Dev-KAIDO/Eng_KAIDO"><img src="https://img.shields.io/badge/Explore%20my%20engineering%20portfolio-Eng__KAIDO-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Explore Eng KAIDO engineering portfolio"></a>
+
+<br>
+
+<sub><strong>The profile shows what I build.</strong> Eng_KAIDO explains how I think, design, and engineer it.</sub>
+
+</div>
+
 ### What I am focused on
 
 <table>
@@ -45,6 +55,31 @@ class Abdulrhaman:
 ```
 
 </details>
+
+## Explore my work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👋 Main profile
+
+The concise view of my focus, technologies, selected projects, and engineering principles.
+
+<a href="https://github.com/Dev-KAIDO"><img src="https://img.shields.io/badge/You%20are%20here-Dev--KAIDO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Main profile"></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 Engineering portfolio
+
+A deeper project journal with technical direction, project stories, visual maps, roadmaps, and the decisions behind the work.
+
+<a href="https://github.com/Dev-KAIDO/Eng_KAIDO"><img src="https://img.shields.io/badge/Go%20deeper-Eng__KAIDO-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Open Eng KAIDO portfolio"></a>
+
+</td>
+</tr>
+</table>
 
 ## Selected projects
 
@@ -80,6 +115,24 @@ class Abdulrhaman:
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🧰 Want the full story behind the projects?
+
+The profile shows the highlights. **Eng_KAIDO shows the engineering journey behind them** — from the problem and architecture to the roadmap and lessons learned.
+
+<a href="https://github.com/Dev-KAIDO/Eng_KAIDO"><img src="https://img.shields.io/badge/Visit%20the%20full%20portfolio-Eng__KAIDO-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Visit full Eng KAIDO portfolio"></a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## Technology constellation
 
